@@ -1,4 +1,3 @@
 # MyRepo
 MyRepository
-Hai I am razika.
-This is my repo 
+This Repository have OOPS projects.
